@@ -5,7 +5,7 @@ lua54 'yes'
 
 author 'HenkW'
 description 'Tricks resource for FiveM servers'
-version '1.1.2'
+version '1.1.3'
 
 client_scripts {
 	'config.lua',
